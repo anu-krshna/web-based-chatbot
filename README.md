@@ -1,7 +1,6 @@
 # web-based-chatbot
 <p align="center">
-  <img src=".<img width="435" height="197" alt="banner" src="https://github.com/user-attachments/assets/369e6b71-6d15-44c4-9dff-727745da0b7d" />
-" alt="Project Banner" width="100%"> 
+  <img src="./banner.png"alt="Project Banner"width+"100%"> 
 </p>
 
 # Horegallu 🧠
