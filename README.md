@@ -1,6 +1,6 @@
 # web-based-chatbot
 <p align="center">
-  <img src="./banner.png" alt="Project Banner" width="100%">
+  <img src="./banner.png" alt="Project Banner" width="100%"> 
 </p>
 
 # Horegallu 🧠
